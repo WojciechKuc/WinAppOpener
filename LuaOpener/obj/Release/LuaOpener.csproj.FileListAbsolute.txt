@@ -1,0 +1,41 @@
+C:\Users\wojta_000\documents\visual studio 2013\Projects\LuaOpener\LuaOpener\bin\Release\LuaOpener.exe.config
+C:\Users\wojta_000\documents\visual studio 2013\Projects\LuaOpener\LuaOpener\bin\Release\LuaOpener.exe
+C:\Users\wojta_000\documents\visual studio 2013\Projects\LuaOpener\LuaOpener\bin\Release\LuaOpener.pdb
+C:\Users\wojta_000\documents\visual studio 2013\Projects\LuaOpener\LuaOpener\bin\Release\InputSimulator.dll
+C:\Users\wojta_000\documents\visual studio 2013\Projects\LuaOpener\LuaOpener\bin\Release\MoonSharp.Interpreter.dll
+C:\Users\wojta_000\documents\visual studio 2013\Projects\LuaOpener\LuaOpener\bin\Release\InputSimulator.pdb
+C:\Users\wojta_000\documents\visual studio 2013\Projects\LuaOpener\LuaOpener\bin\Release\InputSimulator.xml
+C:\Users\wojta_000\documents\visual studio 2013\Projects\LuaOpener\LuaOpener\bin\Release\MoonSharp.Interpreter.pdb
+C:\Users\wojta_000\documents\visual studio 2013\Projects\LuaOpener\LuaOpener\bin\Release\MoonSharp.Interpreter.xml
+C:\Users\wojta_000\documents\visual studio 2013\Projects\LuaOpener\LuaOpener\obj\Release\LuaOpener.Form1.resources
+C:\Users\wojta_000\documents\visual studio 2013\Projects\LuaOpener\LuaOpener\obj\Release\LuaOpener.Properties.Resources.resources
+C:\Users\wojta_000\documents\visual studio 2013\Projects\LuaOpener\LuaOpener\obj\Release\LuaOpener.csproj.GenerateResource.Cache
+C:\Users\wojta_000\documents\visual studio 2013\Projects\LuaOpener\LuaOpener\obj\Release\LuaOpener.exe
+C:\Users\wojta_000\documents\visual studio 2013\Projects\LuaOpener\LuaOpener\obj\Release\LuaOpener.pdb
+C:\Users\wojta_000\documents\visual studio 2013\Projects\LuaOpener\LuaOpener\bin\Release\LuaOpener.exe.manifest
+C:\Users\wojta_000\documents\visual studio 2013\Projects\LuaOpener\LuaOpener\bin\Release\LuaOpener.application
+C:\Users\wojta_000\documents\visual studio 2013\Projects\LuaOpener\LuaOpener\obj\Release\LuaOpener.exe.manifest
+C:\Users\wojta_000\documents\visual studio 2013\Projects\LuaOpener\LuaOpener\obj\Release\LuaOpener.application
+C:\Users\wojta_000\documents\visual studio 2013\Projects\LuaOpener\LuaOpener\obj\Release\LuaOpener.csprojResolveAssemblyReference.cache
+C:\Users\wojta_000\Documents\Visual Studio 2013\Projects\LuaOpener — kopia (4)\LuaOpener\bin\Release\LuaOpener.exe.config
+C:\Users\wojta_000\Documents\Visual Studio 2013\Projects\LuaOpener — kopia (4)\LuaOpener\obj\Release\LuaOpener.exe
+C:\Users\wojta_000\Documents\Visual Studio 2013\Projects\LuaOpener — kopia (4)\LuaOpener\obj\Release\LuaOpener.pdb
+C:\Users\wojta_000\Documents\Visual Studio 2013\Projects\WinAppOpener\LuaOpener\bin\Release\LuaOpener.exe.config
+C:\Users\wojta_000\Documents\Visual Studio 2013\Projects\WinAppOpener\LuaOpener\obj\Release\LuaOpener.exe
+C:\Users\wojta_000\Documents\Visual Studio 2013\Projects\WinAppOpener\LuaOpener\obj\Release\LuaOpener.pdb
+C:\Users\wojta_000\Documents\Visual Studio 2013\Projects\WinAppOpener\LuaOpener\bin\Release\LuaOpener.exe.manifest
+C:\Users\wojta_000\Documents\Visual Studio 2013\Projects\WinAppOpener\LuaOpener\bin\Release\LuaOpener.application
+C:\Users\wojta_000\Documents\Visual Studio 2013\Projects\WinAppOpener\LuaOpener\bin\Release\LuaOpener.exe
+C:\Users\wojta_000\Documents\Visual Studio 2013\Projects\WinAppOpener\LuaOpener\bin\Release\LuaOpener.pdb
+C:\Users\wojta_000\Documents\Visual Studio 2013\Projects\WinAppOpener\LuaOpener\bin\Release\InputSimulator.dll
+C:\Users\wojta_000\Documents\Visual Studio 2013\Projects\WinAppOpener\LuaOpener\bin\Release\MoonSharp.Interpreter.dll
+C:\Users\wojta_000\Documents\Visual Studio 2013\Projects\WinAppOpener\LuaOpener\bin\Release\InputSimulator.pdb
+C:\Users\wojta_000\Documents\Visual Studio 2013\Projects\WinAppOpener\LuaOpener\bin\Release\InputSimulator.xml
+C:\Users\wojta_000\Documents\Visual Studio 2013\Projects\WinAppOpener\LuaOpener\bin\Release\MoonSharp.Interpreter.pdb
+C:\Users\wojta_000\Documents\Visual Studio 2013\Projects\WinAppOpener\LuaOpener\bin\Release\MoonSharp.Interpreter.xml
+C:\Users\wojta_000\Documents\Visual Studio 2013\Projects\WinAppOpener\LuaOpener\obj\Release\LuaOpener.csprojResolveAssemblyReference.cache
+C:\Users\wojta_000\Documents\Visual Studio 2013\Projects\WinAppOpener\LuaOpener\obj\Release\LuaOpener.Form1.resources
+C:\Users\wojta_000\Documents\Visual Studio 2013\Projects\WinAppOpener\LuaOpener\obj\Release\LuaOpener.Properties.Resources.resources
+C:\Users\wojta_000\Documents\Visual Studio 2013\Projects\WinAppOpener\LuaOpener\obj\Release\LuaOpener.csproj.GenerateResource.Cache
+C:\Users\wojta_000\Documents\Visual Studio 2013\Projects\WinAppOpener\LuaOpener\obj\Release\LuaOpener.exe.manifest
+C:\Users\wojta_000\Documents\Visual Studio 2013\Projects\WinAppOpener\LuaOpener\obj\Release\LuaOpener.application
